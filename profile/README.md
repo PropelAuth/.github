@@ -1,6 +1,6 @@
 # PropelAuth
 
-Add authentication and authorization to your [B2B application](https://www.propelauth.com/b2b).
+Add authentication and authorization to your [B2B application](https://www.propelauth.com/).
 
 Your frontend gets a beautiful, safe, and customizable login screen. Your backend gets easy authorization with just a few lines of code. You get an easy-to-use dashboard to config and manage everything.
 
